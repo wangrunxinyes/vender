@@ -15,9 +15,8 @@
 		"kartik-v/yii2-widgets" : "^3.4",
 		"kartik-v/yii2-dialog" : "^1.0",
 		"kartik-v/yii2-grid" : "^3.2",
-		"wangrunxinyes/yii2-audit": "dev-master",
-		"almasaeed2010/adminlte": "^2.4",
-		"kartik-v/yii2-date-range": "dev-master"
+		"wangrunxinyes/yii2-audit" : "dev-master",
+		"almasaeed2010/adminlte" : "^2.4"
 	},
 	"require-dev" : {
 		"yiisoft/yii2-debug" : "~2.0.0",
